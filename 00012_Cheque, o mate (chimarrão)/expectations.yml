@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresProcedure:cebar_mate
+  inspection: DeclaresProcedure:fazer_chimarrao
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresProcedure:tomar_mate
+  inspection: DeclaresProcedure:tomar_chimarrao
