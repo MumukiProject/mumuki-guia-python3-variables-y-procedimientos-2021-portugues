@@ -3,11 +3,11 @@
     global agua_da_garrafa_termica
     agua_da_garrafa_termica = 1000
     esvaziar_garrafa()
-    self.assertEqual(agua_da_garrafa, 0)
+    self.assertEqual(agua_da_garrafa_termica, 0)
 
 
   def test_llenar_termo_deja_en_1000_el_agua_del_termo(self):
     global agua_da_garrafa_termica
     agua_da_garrafa_termica = 80
     encher_garrafa()
-    self.assertEqual(agua_da_garrafa, 1000)
+    self.assertEqual(agua_da_garrafa_termica, 1000)
