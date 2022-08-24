@@ -1,7 +1,7 @@
-def saludar_a(quien, horario):
+def cumprimentar_a(quien, horario):
   if horario < 12:
-    return "¡Buenos días " + quien + "!"
+    return "Bom dia " + quien + "!"
   elif horario < 19:
-    return "¡Buenas tardes " + quien + "!"
+    return "Boa tarde " + quien + "!"
   else: 
-    return "¡Buenas noches " + quien + "!"
+    return "Boa noite " + quien + "!"

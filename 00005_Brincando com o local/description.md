@@ -1,33 +1,33 @@
-Hay veces que no queremos, o simplemente no tiene sentido, que nuestras variables sean accedidas por todas las funciones. Por suerte, podemos inicializar variables tanto directamente en el programa, como dentro de un `def`:
+Há momentos em que não queremos, ou simplesmente não faz sentido, que nossas variáveis sejam acessadas por todas as funções. Felizmente, podemos inicializar variáveis diretamente no programa e dentro de um `def`:
 
 ```python
-def el_mas_largo_sin_espacios(un_string, otro_string):
-  un_string_sin_espacios = str.strip(un_string)
-  otro_string_sin_espacios = str.strip(otro_string)
-  
-  if(len(un_string_sin_espacios) > len(otro_string_sin_espacios)):
-    return un_string_sin_espacios
+def o_mais_longo_sem_espacos(uma_string, outra_string):
+  uma_string_sem_espacos = str.strip(uma_string)
+  outra_string_sem_espacos = str.strip(outra_string)
+ 
+  if(len(uma_string_sem_espacos) > len(outra_string_sem_espacos)):
+	return uma_string_sem_espacos
   else:
-    return otro_string_sin_espacios
+	return outra_string_sem_espacos
 ```
 
-Las variables inicializadas dentro de un `def`, conocidas como _variables locales_, no presentan mayor misterio. Sin embargo, hay que tener un particular cuidado :warning: ya que sólo se pueden utilizar dentro del `def` en cuestión. Si quiero referenciarla desde un programa...
+Variáveis inicializadas dentro de um `def`, conhecidas como _variáveis locais_, apresentam pouco mistério. No entanto, você deve ter um cuidado especial com :warning: pois eles só podem ser usados dentro do `def` em questão. Se eu quiser referenciá-lo a partir de um programa ...
 
 ```python
-pregunta = "¿" + un_string_sin_espacios + "?"
+pergunta = uma_string_sem_espacos + "?"
 ```
 
-...¡boom! ¡se romperá! :collision:
+...¡boom! vai quebrar! :collision:
 
-Sin embargo, las variables inicializadas directamente en el programa, conocidas como _variables globales_, pueden ser leídas desde cualquier `def`. Por ejemplo:
+Entretanto, variáveis inicializadas diretamente no programa, conhecidas como _variáveis globais_, podem ser lidas de qualquer `def`. Por exemplo:
 
 ```python
-peso_maximo_del_equipaje_en_gramos = 5000
+peso_maximo_da_bagagem_em_gramas = 5000
 
-def puede_llevar(peso_equipaje):
-  return peso_equipaje <= peso_maximo_del_equipaje_en_gramos
+def pode_levar(peso_bagagem):
+  return peso_bagagem <= peso_maximo_da_bagagem_em_gramas
 ````
  
-> Como te habrás dado cuenta, nunca nos olvidamos de saludar ¡y ahora no es la excepción!
+> Como você deve ter notado, nunca nos esquecemos de cumprimentar e agora não é exceção!
 
-> Modificá la función `saludar_a` para evitar la repetición de lógica. Para eso declará y utilizá una variable local `final_de_saludo`.
+> Modifique a função `cumprimentar_a` para evitar a repetição da lógica. Para isso declare e utilize uma variável local `final_do_cumprimento`.

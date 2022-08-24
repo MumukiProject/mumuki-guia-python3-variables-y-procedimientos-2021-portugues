@@ -2,10 +2,10 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:saludar_a
+  inspection: Declares:cumprimentar_a
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: saludar_a
-  inspection: Assigns:final_de_saludo
+  binding: cumprimentar_a
+  inspection: Assigns:final_do_cumprimento
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: saludar_a
-  inspection: Uses:final_de_saludo
+  binding: cumprimentar_a
+  inspection: Uses:final_do_cumprimento

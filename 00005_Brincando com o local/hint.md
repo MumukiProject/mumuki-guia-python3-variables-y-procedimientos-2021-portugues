@@ -1,1 +1,1 @@
-Para determinar el valor de la variable local `final_de_saludo` es importante detectar qué es lo que se repite en cada una de las ramas del `if`. :wink:
+Para determinar o valor da variável local `final_do_cumprimento` é importante detectar o que se repete em cada um dos ramos do `if`. :wink:
