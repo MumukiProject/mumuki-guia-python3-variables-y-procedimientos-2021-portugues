@@ -14,4 +14,4 @@ Isso mesmo, é que na verdade `passar_um_dia_normal()` não é uma função, é 
 * os procedimentos **não retornam nada e têm um efeito** quando são invocados.
 
 
-Agora que você sabe a diferença, defina um procedimento `aumentar_fortuna` que dobre o valor da variável global `reais_na_minha_carteira`. Não inicialize a variável, porque já fizemos isso para você (com uma quantia secreta de dinheiro :wink:).
+> Agora que você sabe a diferença, defina um procedimento `aumentar_fortuna` que dobre o valor da variável global `reais_na_minha_carteira`. Não inicialize a variável, porque já fizemos isso para você (com uma quantia secreta de dinheiro :wink:).
