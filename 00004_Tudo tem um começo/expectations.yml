@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresFunction:elevador_sobrecarregado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: elevador_sobrecarregado
+  inspection: Uses:peso_medio_pessoa_em_quilogramas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: elevador_sobrecarregado
+  inspection: Uses:carga_maxima_em_quilogramas
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:elevador_sobrecarregado

@@ -1,0 +1,1 @@
+peso_medio_pessoa_em_quilogramas = 75
