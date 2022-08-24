@@ -1,10 +1,10 @@
 agua_do_chimarrao = 0
-agua_da_garrafa = 1000
+agua_da_garrafa_termica = 1000
 
 def fazer_chimarrao():
   global agua_do_chimarrao
-  global agua_da_garrafa
-  agua_da_garrafa -= 30
+  global agua_da_garrafa_termica
+  agua_da_garrafa_termica -= 30
   agua_do_chimarrao += 30
   
 def tomar_chimarrao():

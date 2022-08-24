@@ -10,9 +10,9 @@ def passar():
 > Teste no console fazendo o seguinte na ordem:
 
 > 1. `agua_do_chimarrao`
-> 2. `agua_da_garrafa`
+> 2. `agua_da_garrafa_termica`
 > 3. `fazer_chimarrao()`
 > 4. `agua_do_chimarrao`
 > 5. `passar()`
 > 6. `agua_do_chimarrao`
-> 7. `agua_da_garrafa`
+> 7. `agua_da_garrafa_termica`
