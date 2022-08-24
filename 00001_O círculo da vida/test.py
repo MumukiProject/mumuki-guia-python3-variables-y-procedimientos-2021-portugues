@@ -1,6 +1,6 @@
   
   def test_el_perimetro_de_un_circulo_de_radio_1_es_correcto(self):
-    self.assertEqual(perimetro_circulo(1), 6.28318530717958)
+    self.assertEqual((1), 6.28318530717958)
   
   def test_el_perimetro_de_un_circulo_de_radio_2_es_correcto(self):
     self.assertEqual(perimetro_circulo(2), 12.56637061435916)
