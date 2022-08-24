@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: '3'
-name: Variemos un poco
+name: Vamos variar um pouco
