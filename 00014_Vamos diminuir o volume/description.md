@@ -3,7 +3,7 @@ Dê uma olhada no programa a seguir:
 ```python
 volume = 40
 
-def subir_volume(decibeis):
+def aumentar_volume(decibeis):
     global volume
     volume += decibeis
 
