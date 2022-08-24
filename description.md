@@ -1,3 +1,3 @@
-Cuando programamos, ¿siempre vamos a querer retornar algo? ¿Habrá alguna especie de función que no retorne? Y si no retorna, ¿es una función? :thinking:
+Quando programamos, sempre vamos querer retornar alguma coisa? Existe algum tipo de função que não retorna? E se não retornar, é uma função?:thinking:
 
-En esta lección vamos a conocer a las variables y los procedimientos, dos herramientas que nos van a pemitir solucionar nuevos tipos problemas y hacer programas más complejos. :sunglasses:
+Nesta lição vamos conhecer variáveis ​​e procedimentos, duas ferramentas que nos permitirão resolver novos tipos de problemas e fazer programas mais complexos. :sunglasses:
