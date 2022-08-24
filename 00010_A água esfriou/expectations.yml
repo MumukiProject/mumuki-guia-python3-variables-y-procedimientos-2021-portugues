@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresProcedure:vaciar_termo
+  inspection: DeclaresProcedure:esvaziar_garrafa
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresProcedure:llenar_termo
+  inspection: DeclaresProcedure:encher_garrafa
