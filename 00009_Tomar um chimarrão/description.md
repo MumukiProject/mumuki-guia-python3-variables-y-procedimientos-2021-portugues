@@ -2,4 +2,4 @@ Com tudo o que aprendemos até agora, seria bom para um pouco para tomar um chim
 
 Sabendo que ao fazer um chimarrão a quantidade de água na garrafa térmica diminui...
 
-> ...inicialize a variável global `agua_da_garrafa_termica` (que representa os mililitros que a garrafa tem) com 1000. Também defina o procedimento `fazer_chimarreo` que diminui 30 mililitros de água na garrafa.
+> ...inicialize a variável global `agua_da_garrafa_termica` (que representa os mililitros que a garrafa tem) com 1000. Também defina o procedimento `fazer_chimarrao` que diminui 30 mililitros de água na garrafa.

@@ -8,4 +8,4 @@ expectations:
   inspection: Assigns:agua_da_garrafa_termica
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresProcedure:fazer_chimarreo
+  inspection: DeclaresProcedure:fazer_chimarrao
