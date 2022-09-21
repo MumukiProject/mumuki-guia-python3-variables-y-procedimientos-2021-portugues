@@ -1,1 +1,1 @@
-Entonces, ¿es necesario darle valor a nuestras variables antes de usarlas? :thinking:
+Então, é necessário dar um valor às nossas variáveis antes de usá-las? :thinking:
