@@ -1,3 +1,3 @@
-¡Excelente! :clap:
+Excelente! :clap:
 
-Con lo que venimos haciendo cualquier función puede utilizar a las variables, pero ¿qué pasa si no queremos que eso pase? :thinking:
+Com o que temos feito até agora, qualquer função pode usar variáveis, mas e se não quisermos que isso aconteça? :thinking:
