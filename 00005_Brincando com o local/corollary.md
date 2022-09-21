@@ -1,8 +1,8 @@
-¡Excelente! :raised_hands:
+Excelente! :raised_hands:
 
-Para resumir lo visto:
+Para resumir o que vimos:
 
-* las variables globales se inicializan por fuera de las funciones y pueden ser accedidas desde cualquier lugar del programa;
-* las variables locales pueden ser accedidas solo desde la función donde la inicializamos. 
+* as variáveis globais são inicializadas fora das funções e podem ser acessadas de qualquer lugar no programa;
+* as variáveis locais podem ser acessadas apenas a partir da função onde foram inicializadas. 
 
-Si bien ahora conocemos los dos tipos de variables no abusemos de su uso. Recordemos que las variables nos sirven para utilizar un mismo valor en más de un lugar y evitar la repetición de lógica.
+Embora agora conheçamos os dois tipos de variáveis, não vamos usá-las excessivamente. Vamos lembrar que as variáveis nos ajudam a usar o mesmo valor em mais de um lugar e evitar repetição de lógica.

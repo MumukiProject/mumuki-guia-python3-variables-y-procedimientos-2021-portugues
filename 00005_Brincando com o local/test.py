@@ -1,15 +1,15 @@
 
-  def test_saludar_a_gus_a_las_11_le_dice_buenos_dias(self):
+  def test_cumprimentar_a_gus_às_11_diz_bom_dia(self):
     self.assertEquals(cumprimentar_a("Gus", 11), "Bom dia Gus!")
     
-  def test_saludar_a_may_a_las_12_le_dice_buenas_tardes(self):
+  def test_cumprimentar_a_may_às_12_diz_boa_tarde(self):
     self.assertEquals(cumprimentar_a("May", 12), "Boa tarde May!")
     
-  def test_saludar_a_lu_a_las_18_le_dice_buenas_tardes(self):
+  def test_cumprimentar_a_lu_às_18_diz_boa_tarde(self):
     self.assertEquals(cumprimentar_a("Lu", 18), "Boa tarde Lu!")
     
-  def test_saludar_a_guille_a_las_19_le_dice_buenas_noches(self):
+  def test_cumprimentar_a_guille_às_19_diz_boa_noite(self):
     self.assertEquals(cumprimentar_a("Guille", 19), "Boa noite Guille!")
   
-  def test_saludar_a_jor_a_las_20_le_dice_buenas_noches(self):
+  def test_cumprimentar_a_jor_às_20_diz_boa_noite(self):
     self.assertEquals(cumprimentar_a("Jor", 20), "Boa noite Jor!")  
