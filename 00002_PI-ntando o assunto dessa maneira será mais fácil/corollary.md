@@ -1,1 +1,1 @@
-¡Excelente! Gracias a la variable `pi` no tuvimos que escribir el número cada vez que teníamos que usarlo y ¡nuestro programa quedó mucho más entendible! :raised_hands:
+Excelente! Graças a variável `pi` não foi preciso escrever o número cada vez que tínhamos que usá-lo. E nosso programa ficou bem mais compreensível! :raised_hands:
