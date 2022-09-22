@@ -1,3 +1,3 @@
-¡Varió! O mutó como solemos decir. Pero tené en cuenta que poder hacerlo, no significa querer hacerlo. No siempre vamos a querer modificar el valor de nuestras variables. :relieved:
+Variou! Ou mutou como costumamos dizer. Mas tenha em mente que poder fazer, não significa querer fazê-lo. Nem sempre vamos querer modificar o valor das nossas variáveis. :relieved:
 
-Si te preguntas por qué es necesario anteponer `global`, tené en cuenta que las variables globales pueden ser accedidas por cualquier función. Es la manera que tenemos de asegurar que sabemos eso y que aún así queremos modificar nuestra variable. :relieved:
+Se você se pergunta por que é necessário colocar a palavra `global` antes, lembre-se de que as variáveis globais podem ser acessadas a partir de qualquer função. É a maneira que temos de garantir que sabemos isso e que ainda assim queremos modificar nossa variável. :relieved:
