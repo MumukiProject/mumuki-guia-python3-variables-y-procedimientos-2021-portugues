@@ -13,4 +13,4 @@ def passar():
   # Passo
 ```
 
-...já que os comentários são ignorados. No entanto, `pass` é levado em consideração, pois é a representação do código de "não fazer nada".. :exploding_head:
+...já que os comentários são ignorados. No entanto, `pass` é levado em consideração, pois é a representação do código de "não fazer nada"... :exploding_head:
