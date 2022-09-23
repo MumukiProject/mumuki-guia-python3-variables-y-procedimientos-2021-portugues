@@ -1,16 +1,16 @@
-Te preguntarás por qué no dejamos vacío el procedimiento y ya, ¿no?
+Você vai se perguntar porque não deixamos o procedimento vazio e pronto, não é mesmo?
 
-Es que en Python no podemos definir un procedimiento vacío...
-
-```python
-def pasar():
-```
-
-...tampoco con solo un comentario...
+É que em Python não podemos definir um procedimento vazio...
 
 ```python
-def pasar():
-  # Paso
+def passar():
 ```
 
-...dado que los comentarios son ignorados. Sin embargo, `pass` es tenido en cuenta ya que es la representación en código de "no hacer nada". :exploding_head:
+...nem com apenas um comentário...
+
+```python
+def passar():
+  # Passo
+```
+
+...já que os comentários são ignorados. No entanto, `pass` é levado em consideração, pois é a representação do código de "não fazer nada.. :exploding_head:
