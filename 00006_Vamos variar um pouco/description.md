@@ -1,6 +1,6 @@
-_Tudo muito interessante até agora, mas por que eles são chamados de variáveis se não variam?_ :face_with_raised_eyebrow:
+_Tudo muito interessante até agora, mas por que são chamadas de variáveis se não variam?_ :face_with_raised_eyebrow:
 
-Bem, é que na verdade eles podem variar :sunglasses: . Vamos ver um exemplo:
+Bem, é que na verdade elas podem variar :sunglasses: . Vamos ver um exemplo:
 
 ```python
 # inicializamos a variável para que o valor seja 0...
