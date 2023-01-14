@@ -1,1 +1,1 @@
-Excelente, la precisión de nuestros cálculos es innegable :face_with_monocle:, pero tuvimos que escribir un número larguísimo. Pensemos que pi aparece en un montón de fórmulas matemáticas. ¿Es necesario escribir este número cada vez?¿No podemos hacer algo más cómodo? :thinking:
+Excelente, a precisão dos nossos cálculos é inegável :face_with_monocle:, mas tivemos que escrever um número muito longo. Considere que pi aparece em várias fórmulas matemáticas. É necessário escrever esse número todas as vezes? Será que não podemos fazer algo mais prático? :thinking:
