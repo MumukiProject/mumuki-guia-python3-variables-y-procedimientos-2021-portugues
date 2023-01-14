@@ -1,4 +1,4 @@
-Com tudo o que aprendemos até agora, seria bom para um pouco para tomar um chimarrão, não é mesmo? :mate: Melhor ainda, vamos programar o chimarrão! :sweat:
+Com tudo o que aprendemos até agora, seria bom parar um pouco para tomar um chimarrão, não é mesmo? :mate: Melhor ainda, vamos programar o chimarrão! :sweat:
 
 Sabendo que ao fazer um chimarrão a quantidade de água na garrafa térmica diminui...
 
