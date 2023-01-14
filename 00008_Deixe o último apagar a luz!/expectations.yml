@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: usar_ziper
-  inspection: Assigns:mochila_abierta
+  inspection: Assigns:mochila_aberta
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: usar_ziper
   inspection: Not:UsesIf

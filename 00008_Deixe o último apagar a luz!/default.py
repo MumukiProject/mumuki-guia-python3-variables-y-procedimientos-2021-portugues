@@ -1,1 +1,1 @@
-mochila_abierta = True
+mochila_aberta = True
