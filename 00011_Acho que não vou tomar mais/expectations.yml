@@ -5,4 +5,4 @@ expectations:
   inspection: DeclaresProcedure:colocar_agua_na_garrafa
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity0:colocar_agua_na_garrafa
+  inspection: DeclaresComputationWithArity1:colocar_agua_na_garrafa
